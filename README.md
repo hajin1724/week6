@@ -7,8 +7,8 @@
 - (도전 과제) 4_sigchld.c : SIGCHLD로 자식 3개를 자동 수거
 
 ## 2. 실행 화면
-![1_sigint 실행](images/1_sigint.png)
-![2_alarm 실행](images/2_alarm.png)
+![1_sigint 실행](images/1_sigint1.png)
+![1_sigint 실행](images/1_sigint2.png)
 
 ## 3. AI 사용 내용
 - 사용한 AI: Claude
